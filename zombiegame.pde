@@ -9,6 +9,11 @@ void draw() {
 }
 
 class Player {
+  
+  Player() {
+   }
+ 
+    
 
 }
 
